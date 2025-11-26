@@ -18,6 +18,16 @@ La Théorie ZM propose une ontologie informationnelle où l’espace-temps, la m
 - `predictions/` : Documentation des prédictions et protocoles expérimentaux.  
 - `publications/` : Articles, prépublications, posters.  
 - `docs/` : Synthèses, notes pédagogiques.
+- 
+## Démonstrations mathématiques avancées
+
+Un nouveau sous-dossier `math_formalism/advanced_demos/` présente trois démonstrations clés renforçant la robustesse théorique :  
+
+- Convergence fonction d’action vers métrique riemannienne continue.  
+- Preuve d’invariance topologique des charges physiques.  
+- Analyse spectrale fractale des opérateurs laplaciens.
+
+Les notebooks correspondants illustrent ces résultats par des prototypes numériques reproductibles.
 
 ## Installation
 
