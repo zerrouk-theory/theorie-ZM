@@ -3,7 +3,7 @@
 
 DOI : https://doi.org/10.17605/OSF.IO/N3KV9
 
-https://zm-theory.github.io/#publications
+Site web : https://zm-theory.github.io/#publications
 
 ## Contexte
 
