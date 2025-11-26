@@ -1,4 +1,5 @@
 # Théorie ZM : Formalisation, Simulation et Validation
+DOI : https://doi.org/10.17605/OSF.IO/N3KV9
 
 ## Contexte
 
