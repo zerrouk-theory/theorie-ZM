@@ -3,6 +3,8 @@
 
 DOI : https://doi.org/10.17605/OSF.IO/N3KV9
 
+https://zm-theory.github.io/#publications
+
 ## Contexte
 
 La Théorie ZM propose une ontologie informationnelle où l’espace-temps, la matière et la conscience émergent d’un réseau fractal dynamique de pixels d’information pondérés. Ce cadre vise à unifier lois physiques fondamentales, phénomènes cosmologiques et complexité cognitive dans un modèle mathématique rigoureux.
