@@ -1,8 +1,6 @@
 # Théorie ZM : Formalisation, Simulation et Validation
 [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FN3KV9-blue.svg)](https://doi.org/10.17605/OSF.IO/N3KV9)
 
-DOI : https://doi.org/10.17605/OSF.IO/N3KV9
-
 Site web : https://zm-theory.github.io/#publications
 
 ## Contexte
