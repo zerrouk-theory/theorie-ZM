@@ -36,5 +36,35 @@ Les notebooks correspondants illustrent ces résultats par des prototypes numér
 
 Pour l’implémentation computationnelle et les modules de simulation associés à la Théorie ZM, voir le dépôt [ZM-alpha](https://github.com/zerrouk-theory/ZM-alpha).
 
+## Visualisations essentielles
+
+Les figures suivantes illustrent les premières prédictions et signatures géométriques issues de la Théorie ZM.
+
+![Alpha running](https://raw.githubusercontent.com/zerrouk-theory/ZM-alpha/main/pdf/alpha_running.png)
+![fNL local](https://raw.githubusercontent.com/zerrouk-theory/ZM-alpha/main/pdf/fNL_ZM.png)
+![ILL SNR](https://raw.githubusercontent.com/zerrouk-theory/ZM-alpha/main/pdf/SNR_ILL.png)
+
+![Metric 3D](https://raw.githubusercontent.com/zerrouk-theory/ZM-alpha/main/pdf/metric_3d.png)
+![Laplacian spectrum](https://raw.githubusercontent.com/zerrouk-theory/ZM-alpha/main/pdf/laplacian_spectrum.png)
+
+## Documentation PDF
+
+- [Résumé visuel de la Théorie ZM](https://raw.githubusercontent.com/zerrouk-theory/ZM-alpha/main/pdf/ZM_Theory_Overview.pdf)  
+- Rapports techniques et figures : disponibles dans `publications/` et `simulations/`.
+
+## Guide rapide
+
+- La théorie : un réseau dynamique de pixels d’information pondérés.  
+- Les lois : évolution par action discrète, invariance topologique, renormalisation d’échelle.  
+- Les résultats : émergence d’une métrique effective, structures fractales, prédictions cosmologiques.  
+- Le test expérimental : constantes fondamentales, f_NL, signatures neutroniques ILL.  
+- Le code : simulations dans le dépôt ZM-alpha.
+
+## Architecture globale du projet
+
+- **Théorie ZM** : formalisation mathématique, axiomes, preuves.
+- **ZM-alpha** : simulations numériques, prototypes computationnels.
+- **Publications** : préprints HAL/OSF, rapports techniques.
+- **Visualisations** : graphes, métriques, spectres, signatures expérimentales.
 
 
