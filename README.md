@@ -34,5 +34,9 @@ Un nouveau sous-dossier `math_formalism/advanced_demos/` présente trois démons
 
 Les notebooks correspondants illustrent ces résultats par des prototypes numériques reproductibles.
 
-## Installation
+## Implémentation numérique
+
+Pour l’implémentation computationnelle et les modules de simulation associés à la Théorie ZM, voir le dépôt [ZM-alpha](https://github.com/zerrouk-theory/ZM-alpha).
+
+
 
