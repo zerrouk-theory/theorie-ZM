@@ -1,5 +1,9 @@
 # Théorie ZM : Formalisation, Simulation et Validation
 
+[![DOI article](https://zenodo.org/badge/DOI/10.5281/zenodo.17823285.svg)](https://doi.org/10.5281/zenodo.17823285)
+[![DOI short](https://zenodo.org/badge/DOI/10.5281/zenodo.17819419.svg)](https://doi.org/10.5281/zenodo.17819419)
+[![DOI code](https://zenodo.org/badge/DOI/10.5281/zenodo.17830077.svg)](https://doi.org/10.5281/zenodo.17830077)
+
 [![DOI](https://zenodo.org/badge/DOI/10.17605/OSF.IO/N3KV9.svg)](https://doi.org/10.17605/OSF.IO/N3KV9)
 
 **Site web** : [https://zm-theory.github.io/#publications](https://zm-theory.github.io/#publications)
